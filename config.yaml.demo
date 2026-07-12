@@ -1,0 +1,14 @@
+
+llm:
+  base_url: "https://chatgpt.com/codex"
+  api_key: ""
+  model: "gpt-5.4-mini"
+  embed_model: "text-embedding-3-small"
+
+milvus:
+  address: "81:19530"
+  username: ""
+  password: ""
+  db_name: "reader"
+  collection: "novel"
+  dimension: 1536
