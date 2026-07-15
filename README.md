@@ -163,3 +163,12 @@ router/              # Gin 路由与 SPA 回退
 middleware/          # CORS 中间件
 frontend/            # Vue 3 SPA（Element Plus + D3 + Pinia）
 ```
+
+## 说明
+由于是异步推理，可能存在你已经看到第十章了，但是LLM才推理到第三章的问题。
+
+## 演示截图
+[](img/image.png)
+[](img/16a1289c-95e2-45ca-8c08-6bce7b5890ec.png)
+[](img/6fd934d5-82af-4a9f-8fe2-e50c483c94e9.png)
+[](img/14531dce-a079-4e84-a969-42a480f2cb50.png)
